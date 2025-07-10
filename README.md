@@ -10,7 +10,7 @@ This project is a **fully responsive Amazon Clone UI** built using **HTML5**, **
 
 ## 🌐 Live Demo
 
-🔗 [Live Site](https://your-username.github.io/amazon-clone)  
+🔗 [Live Site](https://AnirudhYadav2425.github.io/amazon-clone)  
 _Replace with your actual deployed URL (GitHub Pages / Netlify / Vercel)._
 
 ---
@@ -75,7 +75,7 @@ Edit
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/AnirudhYadav2425/amazon-clone.git
 Open index.html in your browser.
 
 Make sure images are properly linked in the image/img/ folder.
